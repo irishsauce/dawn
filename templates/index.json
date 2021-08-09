@@ -6,13 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Lits pour chiens lavables, faits à la main"
-          }
-        },
-        "7b05df0f-65a0-4b12-b1d2-011387150a8b": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "heading": "Talk about your brand"
           }
         },
         "button": {
@@ -20,223 +14,55 @@
           "settings": {
             "button_label_1": "Shop all",
             "button_link_1": "shopify:\/\/collections\/all",
-<<<<<<< HEAD
             "button_label_2": ""
-=======
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
->>>>>>> 1caa689b5a14163da4a7574785dfb0dd28cc0bfd
           }
         }
       },
       "block_order": [
         "heading",
-<<<<<<< HEAD
-        "button"
-      ]
-=======
-        "7b05df0f-65a0-4b12-b1d2-011387150a8b",
         "button"
       ],
       "settings": {
-        "desktop_text_box_position": "center",
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
+        "desktop_text_box_position": "flex-end"
       }
->>>>>>> 1caa689b5a14163da4a7574785dfb0dd28cc0bfd
     },
-    "162842599585d6b7ee": {
-      "type": "collage",
-      "blocks": {
-        "162842599585d6b7ee-0": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video for customers using screen readers",
-            "image_padding": false
-          }
-        },
-        "eff725bc-5488-441e-9d3a-85b474ec2095": {
-          "type": "image",
-          "settings": {
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "162842599585d6b7ee-0",
-        "eff725bc-5488-441e-9d3a-85b474ec2095"
-      ],
+    "featured_products": {
+      "type": "featured-collection",
       "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "title": "Featured products"
       }
     },
-    "162842606281f63839": {
+    "image_text": {
       "type": "image-with-text",
       "blocks": {
-        "162842606281f63839-0": {
+        "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Notre Histoire"
           }
         },
-        "162842606281f63839-1": {
+        "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
-        "162842606281f63839-2": {
+        "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
           }
         }
       },
       "block_order": [
-        "162842606281f63839-0",
-        "162842606281f63839-1",
-        "162842606281f63839-2"
+        "heading",
+        "text",
+        "button"
       ],
       "settings": {
-        "height": "adapt",
-        "color_scheme": "accent-2",
-        "layout": "image_first"
-      }
-    },
-    "1628426388f8d7185f": {
-      "type": "rich-text",
-      "blocks": {
-        "1628426388f8d7185f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Testimonials",
-            "heading_size": "medium"
-          }
-        },
-        "1628426388f8d7185f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "1628426388f8d7185f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1628426388f8d7185f-0",
-        "1628426388f8d7185f-1",
-        "1628426388f8d7185f-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
-    "1628426436d320c76c": {
-      "type": "rich-text",
-      "blocks": {
-        "1628426436d320c76c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "CTA",
-            "heading_size": "medium"
-          }
-        },
-        "1628426436d320c76c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "1628426436d320c76c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1628426436d320c76c-0",
-        "1628426436d320c76c-1",
-        "1628426436d320c76c-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-1",
-        "full_width": true
-      }
-    },
-    "16284264757f548c12": {
-      "type": "multicolumn",
-      "blocks": {
-        "16284264757f548c12-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "16284264757f548c12-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "16284264757f548c12-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "c2966744-7676-4827-87dc-b92ad5f7078e": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16284264757f548c12-0",
-        "16284264757f548c12-1",
-        "16284264757f548c12-2",
-        "c2966744-7676-4827-87dc-b92ad5f7078e"
-      ],
-      "settings": {
-        "title": "FAQ",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
       }
     }
   },
   "order": [
     "image_banner",
-    "162842599585d6b7ee",
-    "162842606281f63839",
-    "1628426388f8d7185f",
-    "1628426436d320c76c",
-    "16284264757f548c12"
+    "featured_products",
+    "image_text"
   ]
 }
