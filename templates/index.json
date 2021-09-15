@@ -83,6 +83,21 @@
         "layout": "image_first"
       }
     },
+    "1631667125883864c1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false
+      }
+    },
     "163166702604c173b6": {
       "type": "collage",
       "blocks": {
@@ -120,21 +135,6 @@
         "heading": "Témoignages",
         "desktop_layout": "left",
         "mobile_layout": "collage"
-      }
-    },
-    "1631667125883864c1": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "collection": "",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false
       }
     },
     "1631667151c49e4cf3": {
@@ -176,8 +176,8 @@
     "image_banner",
     "16316669559b03d82f",
     "1631666959c2509c3c",
-    "163166702604c173b6",
     "1631667125883864c1",
+    "163166702604c173b6",
     "1631667151c49e4cf3"
   ]
 }
