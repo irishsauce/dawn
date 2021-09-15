@@ -78,7 +78,8 @@
         "1631666959c2509c3c-2"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/IMG_3944-min.jpg",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
